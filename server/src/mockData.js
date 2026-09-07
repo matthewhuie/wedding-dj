@@ -1,0 +1,203 @@
+export const MOCK_WEDDING_TRACKS = [
+  {
+    id: "spotify:track:2grjqo0Frpf25SaUM2vydS",
+    name: "September",
+    artist: "Earth, Wind & Fire",
+    album: "The Best of Earth, Wind & Fire, Vol. 1",
+    albumArt: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&h=300&fit=crop",
+    durationMs: 215000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    vibe: "Dancefloor Banger",
+    year: 1978
+  },
+  {
+    id: "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
+    name: "I Wanna Dance with Somebody (Who Loves Me)",
+    artist: "Whitney Houston",
+    album: "Whitney",
+    albumArt: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop",
+    durationMs: 291000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    vibe: "Dancefloor Banger",
+    year: 1987
+  },
+  {
+    id: "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+    name: "Uptown Funk",
+    artist: "Mark Ronson ft. Bruno Mars",
+    album: "Uptown Special",
+    albumArt: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=300&h=300&fit=crop",
+    durationMs: 270000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    vibe: "Dancefloor Banger",
+    year: 2014
+  },
+  {
+    id: "spotify:track:0tgVpDi06FyKpA1z0VMD4v",
+    name: "Perfect",
+    artist: "Ed Sheeran",
+    album: "÷ (Divide)",
+    albumArt: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop",
+    durationMs: 263000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    vibe: "Slow Dance",
+    year: 2017
+  },
+  {
+    id: "spotify:track:4kLLWz7srcuLrz7vl9P2AX",
+    name: "Can't Help Falling in Love",
+    artist: "Elvis Presley",
+    album: "Blue Hawaii",
+    albumArt: "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=300&h=300&fit=crop",
+    durationMs: 182000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    vibe: "Slow Dance",
+    year: 1961
+  },
+  {
+    id: "spotify:track:0bYg9bo50gSsH3LtW2Wpn6",
+    name: "All of Me",
+    artist: "John Legend",
+    album: "Love in the Future",
+    albumArt: "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=300&h=300&fit=crop",
+    durationMs: 269000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    vibe: "Slow Dance",
+    year: 2013
+  },
+  {
+    id: "spotify:track:57bgtoPSgt236HzfBOd8kj",
+    name: "Dancing Queen",
+    artist: "ABBA",
+    album: "Arrival",
+    albumArt: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=300&h=300&fit=crop",
+    durationMs: 231000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    vibe: "Singalong",
+    year: 1976
+  },
+  {
+    id: "spotify:track:0GjEhRrHG39Voq0eh19Teq",
+    name: "Mr. Brightside",
+    artist: "The Killers",
+    album: "Hot Fuss",
+    albumArt: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=300&h=300&fit=crop",
+    durationMs: 222000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    vibe: "Late Night Singalong",
+    year: 2004
+  },
+  {
+    id: "spotify:track:4bHsxqRFFGMrXdn0uf430u",
+    name: "Don't Stop Believin'",
+    artist: "Journey",
+    album: "Escape",
+    albumArt: "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=300&h=300&fit=crop",
+    durationMs: 251000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    vibe: "Singalong",
+    year: 1981
+  },
+  {
+    id: "spotify:track:59WN2psjkt1tyaxjspN8fp",
+    name: "Sweet Caroline",
+    artist: "Neil Diamond",
+    album: "Brother Love's Travelling Salvation Show",
+    albumArt: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=300&h=300&fit=crop",
+    durationMs: 201000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    vibe: "Singalong",
+    year: 1969
+  },
+  {
+    id: "spotify:track:2PpugWj1yG5H11fB8R146y",
+    name: "Yeah!",
+    artist: "Usher ft. Lil Jon, Ludacris",
+    album: "Confessions",
+    albumArt: "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=300&h=300&fit=crop",
+    durationMs: 250000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    vibe: "Dancefloor Banger",
+    year: 2004
+  },
+  {
+    id: "spotify:track:1G391cbiT3v3CyAJOutZST",
+    name: "Lover",
+    artist: "Taylor Swift",
+    album: "Lover",
+    albumArt: "https://images.unsplash.com/photo-1520523839898-507125cd53c1?w=300&h=300&fit=crop",
+    durationMs: 221000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    vibe: "Slow Dance",
+    year: 2019
+  },
+  {
+    id: "spotify:track:5QTxFnGygVM4jFQiBov50H",
+    name: "Crazy In Love",
+    artist: "Beyoncé ft. JAY-Z",
+    album: "Dangerously in Love",
+    albumArt: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    durationMs: 236000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    vibe: "Dancefloor Banger",
+    year: 2003
+  },
+  {
+    id: "spotify:track:27GmJwUbqKc8g3m923a1z",
+    name: "Levitating",
+    artist: "Dua Lipa",
+    album: "Future Nostalgia",
+    albumArt: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=300&h=300&fit=crop",
+    durationMs: 203000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    vibe: "Dancefloor Banger",
+    year: 2020
+  },
+  {
+    id: "spotify:track:60nZcImufyMA1MKQY3dcCH",
+    name: "Happy",
+    artist: "Pharrell Williams",
+    album: "G I R L",
+    albumArt: "https://images.unsplash.com/photo-1511735111819-9a3f7709049c?w=300&h=300&fit=crop",
+    durationMs: 232000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    vibe: "Cocktail Hour",
+    year: 2013
+  },
+  {
+    id: "spotify:track:0G2B83T07Yq5tq5G1e582e",
+    name: "Fly Me to the Moon",
+    artist: "Frank Sinatra",
+    album: "It Might as Well Be Swing",
+    albumArt: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&h=300&fit=crop",
+    durationMs: 147000,
+    explicit: false,
+    previewUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    vibe: "Cocktail Hour",
+    year: 1964
+  }
+];
+
+export const WEDDING_VIBES = [
+  { id: "all", label: "All Vibes", icon: "✨" },
+  { id: "banger", label: "Dancefloor Banger", icon: "🔥" },
+  { id: "slow", label: "Slow Dance", icon: "💍" },
+  { id: "singalong", label: "Singalong Anthem", icon: "🎤" },
+  { id: "cocktail", label: "Cocktail Hour / Groovy", icon: "🍸" },
+  { id: "special", label: "Bride & Groom Dedication", icon: "❤️" }
+];
